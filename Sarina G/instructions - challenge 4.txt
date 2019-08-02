@@ -1,0 +1,16 @@
+function(speed)
+
+if speed <70
+print 'ok'
+
+for every 5 > 70, +1 point
+
+if > 12 points, print 'license suspended'
+
+
+
+______________________________________________________________
+
+function(limit)
+
+print all prime numbers between 0 and limit
